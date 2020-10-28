@@ -8,7 +8,7 @@ function Header() {
       <nav className="header__nav">
         <div className="header__nav_logo">
           <Link to="/">
-            <img className="header__logo" src="./bikefindr.png" />
+            <img className="header__logo" src="./bikefindr.png" alt="logo" />
           </Link>
         </div>
         <div className="spacer"></div>

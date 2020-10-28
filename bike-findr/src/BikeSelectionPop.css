@@ -1,0 +1,44 @@
+.container {
+  background-color: #a9e3dc;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.top {
+  padding-left: 1rem;
+  padding-right: 3rem;
+  text-align: center;
+  font-size: 2rem;
+}
+.location__container {
+  flex: 1 1 auto;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 3rem;
+  font-size: 1rem;
+}
+
+.top__biketitle {
+  text-align: center;
+}
+
+.location_button {
+  padding: 0.5rem;
+  width: 100%;
+  font-size: 1rem;
+  background-color: white;
+  border: none;
+  font-family: "Montserrat", bold, sans-serif;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.headers {
+  font-family: "Montserrat", bold, sans-serif;
+  font-size: 2rem;
+}
